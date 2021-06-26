@@ -736,7 +736,7 @@ Query whether the current program is saved
 
 Service to query the current program state
 
-##### dashboard/quit ([ur_dashboard_msgs/GetLoadedProgram](http://docs.ros.org/api/ur_dashboard_msgs/html/srv/GetLoadedProgram.html))
+##### dashboard/quit ([std_srvs/Trigger](http://docs.ros.org/api/std_srvs/html/srv/Trigger.html))
 
 Disconnect from the dashboard service.
 
